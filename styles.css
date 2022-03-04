@@ -1,0 +1,30 @@
+body{
+  background-color: #ECECEC;
+ text-align: center;
+ background-image: url(images/f.png);
+ color: blue;
+}
+h1{
+  text-align:left;
+padding-lefT: 10px;
+}
+.lights{
+  padding: 50px 250px 0 250px;
+}
+.download{
+position: relative;
+right: 17px;
+}
+.card{
+  position:relative;
+  left: 20rem;
+  top: 15rem;
+
+}
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
